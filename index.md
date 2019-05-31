@@ -1,6 +1,6 @@
-## Welcome to GitHub Pages
+## Welcome to PubPlayApp
 
-You can use the [editor on GitHub](https://github.com/sumit0004/PubPlayApp/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+You can use this website to publish Apps and Game in google play stoe for just 20 INR, within 3 Hours 
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
